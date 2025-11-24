@@ -1,0 +1,22 @@
+
+predictions=[7 7 7 ... 7 4 7] expected values=[5 0 4 ... 5 6 8]Iteration: 0 Accuracy: 0.0592
+predictions=[9 0 2 ... 5 2 0] expected values=[5 0 4 ... 5 6 8]Iteration: 50 Accuracy: 0.29985
+predictions=[3 0 2 ... 5 2 8] expected values=[5 0 4 ... 5 6 8]Iteration: 100 Accuracy: 0.41841666666666666
+predictions=[3 0 2 ... 5 6 8] expected values=[5 0 4 ... 5 6 8]Iteration: 150 Accuracy: 0.5252333333333333
+predictions=[3 0 2 ... 5 6 8] expected values=[5 0 4 ... 5 6 8]Iteration: 200 Accuracy: 0.5834666666666667
+predictions=[3 0 4 ... 5 6 8] expected values=[5 0 4 ... 5 6 8]Iteration: 250 Accuracy: 0.62105
+predictions=[3 0 4 ... 5 6 8] expected values=[5 0 4 ... 5 6 8]Iteration: 300 Accuracy: 0.6513166666666667
+predictions=[3 0 4 ... 5 6 8] expected values=[5 0 4 ... 5 6 8]Iteration: 350 Accuracy: 0.6761833333333334
+predictions=[3 0 4 ... 5 6 8] expected values=[5 0 4 ... 5 6 8]Iteration: 400 Accuracy: 0.6988666666666666
+predictions=[3 0 4 ... 5 6 8] expected values=[5 0 4 ... 5 6 8]Iteration: 450 Accuracy: 0.7176666666666667
+predictions=[3 0 4 ... 5 6 8] expected values=[5 0 4 ... 5 6 8]Iteration: 500 Accuracy: 0.7339
+predictions=[3 0 4 ... 5 6 8] expected values=[5 0 4 ... 5 6 8]Iteration: 550 Accuracy: 0.7483333333333333
+predictions=[3 0 4 ... 5 6 8] expected values=[5 0 4 ... 5 6 8]Iteration: 600 Accuracy: 0.7613666666666666
+predictions=[3 0 4 ... 5 6 1] expected values=[5 0 4 ... 5 6 8]Iteration: 650 Accuracy: 0.7715166666666666
+predictions=[3 0 4 ... 5 6 1] expected values=[5 0 4 ... 5 6 8]Iteration: 700 Accuracy: 0.7975333333333333
+predictions=[3 0 4 ... 5 6 1] expected values=[5 0 4 ... 5 6 8]Iteration: 750 Accuracy: 0.80485
+predictions=[3 0 4 ... 5 6 1] expected values=[5 0 4 ... 5 6 8]Iteration: 800 Accuracy: 0.8011833333333334
+predictions=[3 0 4 ... 5 6 1] expected values=[5 0 4 ... 5 6 8]Iteration: 850 Accuracy: 0.82055
+predictions=[5 0 4 ... 5 6 1] expected values=[5 0 4 ... 5 6 8]Iteration: 900 Accuracy: 0.8242333333333334
+predictions=[3 0 4 ... 5 6 1] expected values=[5 0 4 ... 5 6 8]Iteration: 950 Accuracy: 0.775
+predictions=[5 0 4 ... 5 6 1] expected values=[5 0 4 ... 5 6 8]Accuracy on Test Data:  0.8316166666666667
