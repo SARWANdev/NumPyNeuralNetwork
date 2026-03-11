@@ -1,2 +1,2 @@
 # NumPyNeuralNetwork
-Neural Network built using NumPy
+simple Neural Network built using NumPy
